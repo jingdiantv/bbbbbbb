@@ -12,7 +12,7 @@ proxies:
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.95.53:7307, server: 69.50.95.53, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 SS-美国-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-169.197.142.216:7002, server: 169.197.142.216, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.95.53:8118, server: 69.50.95.53, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇫🇷 VMESS-未知>法国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.16.68.38:2052, server: 104.16.68.38, port: 2052, type: vmess, uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 7hss-butterfly-d4c3.fijetem432.workers.dev, network: ws, ws-opts: {path: /afrhms07.xfixedfloat.cfd/linkws}}
+  - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.16.68.38:2052, server: 104.16.68.38, port: 2052, type: vmess, uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 7hss-butterfly-d4c3.fijetem432.workers.dev, network: ws, ws-opts: {path: /afrhms07.xfixedfloat.cfd/linkws}}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.222:5499, server: 15.204.87.222, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-mynode.work.gd:20088, server: mynode.work.gd, port: 20088, type: ss, cipher: chacha20-ietf-poly1305, password: ڦʺl٬TJ1q8DFgǪǥ}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:7002, server: 15.204.87.225, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
