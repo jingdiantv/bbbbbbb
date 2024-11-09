@@ -65,7 +65,6 @@ proxies:
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-212.102.47.131:443, server: 212.102.47.131, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.64.167.15:2082, server: 172.64.167.15, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, servername: ip28.6929198.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip28.6929198.xyz}}}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:6379, server: 15.204.87.217, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: 🇳🇱 SSR-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-109.201.152.181:443, server: 109.201.152.181, port: 443, type: ssr, cipher: aes-128-cfb, password: shadowsocks, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:5499, server: 15.204.87.225, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.121.43.204:8000, server: 38.121.43.204, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:8118, server: 15.204.87.225, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
@@ -76,7 +75,6 @@ proxies:
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.19.45.47:2082, server: 104.19.45.47, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, servername: ip28.6929198.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip28.6929198.xyz}}}
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.19.57.4:2082, server: 104.19.57.4, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ip3.6929198.xyz, network: ws, ws-opts: {path: github.com/Alvin9999}}
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.64.167.29:2082, server: 172.64.167.29, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, servername: ip28.6929198.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip28.6929198.xyz}}}
-  - {name: 🇷🇺 VMESS-未知>俄罗斯联邦-ChatGPT-TikTok-YouTube-qghwh.kovmk.website:443, server: qghwh.kovmk.website, port: 443, type: vmess, uuid: aaa3f836-db3f-46ec-aeaf-41be73b3652e, alterId: 0, cipher: auto, tls: true, servername: qghwh.kovmk.website, network: ws, ws-opts: {path: /, headers: {Host: qghwh.kovmk.website}}}
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.64.166.9:2082, server: 172.64.166.9, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, servername: ip29.6929198.xyz, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip29.6929198.xyz}}}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-74.50.98.185:8080, server: 74.50.98.185, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: Mju3ZSaa4QVk45mc}
   - {name: 🇬🇧 SS-英国-ChatGPT-TikTok-YouTube-141.98.101.179:443, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
@@ -87,7 +85,6 @@ proxies:
   - {name: 🇨🇦 SS-加拿大-NF解锁加拿大自制剧-ChatGPT-YouTube-149.22.95.183:443, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: 🇵🇱 SS-波兰-NF解锁波兰地区非自制剧-ChatGPT-TikTok-YouTube-45.144.48.58:57456, server: 45.144.48.58, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.114.114.143:2376, server: 38.114.114.143, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇨🇭 VMESS-未知>瑞士-NF解锁自制剧-ChatGPT-TikTok-YouTube-dmybj.kovmk.website:443, server: dmybj.kovmk.website, port: 443, type: vmess, uuid: 09c2a9db-b133-417e-910a-066ec3f35930, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dmybj.kovmk.website, network: ws, ws-opts: {path: /, headers: {Host: dmybj.kovmk.website}}}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.86.135.141:8882, server: 38.86.135.141, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.213.164.80:443, server: 54.213.164.80, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.114.114.143:443, server: 38.114.114.143, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
