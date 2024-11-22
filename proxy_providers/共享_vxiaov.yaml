@@ -51,7 +51,6 @@ proxies:
   - {name: 🇱🇹 SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.166:8080, server: 45.87.175.166, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-YouTube-104.17.148.22:8880, server: 104.17.148.22, port: 8880, type: vmess, uuid: 2f27affb-dafb-40a5-86d6-244b98909dad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 2ig.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou., network: ws, ws-opts: {path: /}}
   - {name: 🇳🇴 SS-挪威-NF解锁挪威自制剧-51.13.163.192:43715, server: 51.13.163.192, port: 43715, type: ss, cipher: chacha20-ietf-poly1305, password: KsJpUlzVRfy43KoDFuePji}
-  - {name: 🇺🇸 SS-美国-ChatGPT-154.3.8.151:30067, server: 154.3.8.151, port: 30067, type: ss, cipher: aes-256-gcm, password: iUB0923RBA}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-TikTok-YouTube-34.219.118.99:443, server: 34.219.118.99, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SSR-美国-YouTube-54.191.9.106:443, server: 54.191.9.106, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇫🇷 SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6679, server: 54.37.18.75, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
