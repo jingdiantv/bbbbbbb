@@ -51,4 +51,4 @@ proxies:
   - {name: 🇬🇧 SSR-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-146.70.61.18:8080, server: 146.70.61.18, port: 8080, type: ssr, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SSR-美国-ChatGPT-TikTok-YouTube-137.175.113.192:8388, server: 137.175.113.192, port: 8388, type: ssr, cipher: chacha20-ietf, password: asd123456, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇬🇧 SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-212.102.53.193:443, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇸🇪 SS-瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-YouTube-46.246.98.155:44013, server: 46.246.98.155, port: 44013, type: ss, cipher: chacha20-ietf-poly1305, password: UDcjYQ6Z6AIWxViZpqyOmO}
+  - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-79.110.53.169:8080, server: 79.110.53.169, port: 8080, type: ssr, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
