@@ -2,7 +2,6 @@ proxies:
   - {name: 🇺🇸 SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:5500, server: 23.157.40.103, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇫🇷 SS-法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-51.178.87.37:804, server: 51.178.87.37, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇺🇸 SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:3389, server: 23.157.40.47, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇫🇷 SSR-法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-51.158.200.141:443, server: 51.158.200.141, port: 443, type: ssr, cipher: aes-256-cfb, password: asdKkaskJKfnsa, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:12271, server: 150.241.95.63, port: 12271, type: ss, cipher: chacha20-ietf-poly1305, password: MDtZ$d1lcz}
   - {name: 🇺🇸 SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:37774, server: 150.241.95.63, port: 37774, type: ss, cipher: chacha20-ietf-poly1305, password: qbY6=zGuFl}
   - {name: 🇫🇷 SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-51.178.87.37:807, server: 51.178.87.37, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -54,4 +53,4 @@ proxies:
   - {name: 🇺🇸 SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.101.222:25543, server: 150.241.101.222, port: 25543, type: ss, cipher: chacha20-ietf-poly1305, password: kRDQzm1xyJGOxHPTf0ZbHV}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-184.170.241.194:443, server: 184.170.241.194, port: 443, type: ssr, cipher: aes-128-cfb, password: shadowsocks, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇩🇪 SS-德国-NF解锁德国地区非自制剧-ChatGPT-YouTube-89.23.108.217:5555, server: 89.23.108.217, port: 5555, type: ss, cipher: chacha20-ietf-poly1305, password: RN-wsd2jZOxvs52BCkJbzA}
-  - {name: 🇺🇸 SSR-美国-TikTok-YouTube-54.200.223.152:443, server: 54.200.223.152, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
+  - {name: 🇺🇸 SSR-美国-137.175.113.192:8388, server: 137.175.113.192, port: 8388, type: ssr, cipher: chacha20-ietf, password: asd123456, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
