@@ -21,8 +21,6 @@ proxies:
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.244.175.56:443, server: 54.244.175.56, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-44.247.228.17:443, server: 44.247.228.17, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.213.33.205:443, server: 34.213.33.205, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
-  - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.188.119.78:443, server: 54.188.119.78, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇳🇱 SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-213.109.147.242:62685, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-TikTok-YouTube-34.221.253.58:443, server: 34.221.253.58, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇭🇰 VMESS-未知-NF解锁香港地区非自制剧-ChatGPT-YouTube-172.67.158.71:80, server: 172.67.158.71, port: 80, type: vmess, uuid: 2f38f848-a899-4c87-9807-207a41615e3c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: hk.freeyyds.dpdns.org, network: ws, ws-opts: {path: "/rongseven?ed=2048"}}
-  - {name: 🇺🇸 SS-美国-154.3.8.151:30067, server: 154.3.8.151, port: 30067, type: ss, cipher: aes-256-gcm, password: iUB0923RBA}
