@@ -20,15 +20,12 @@ proxies:
   - {name: 🇺🇸 VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-xc011-2.meiziba5566.com:443, server: xc011-2.meiziba5566.com, port: 443, type: vmess, uuid: 42576a04-5a4d-4c7e-fcb4-a8582ab46031, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xc011-2.meiziba5566.com, network: ws, ws-opts: {path: /xc1234, headers: {Host: xc011-2.meiziba5566.com}}}
   - {name: 🇬🇧 SS-英国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-85.234.65.227:26993, server: 85.234.65.227, port: 26993, type: ss, cipher: aes-256-gcm, password: emNIUBjL}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-5.34.178.225:19360, server: 5.34.178.225, port: 19360, type: ss, cipher: aes-256-gcm, password: QiuC2UiY}
-  - {name: 🇬🇧 SS-英国-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-57.128.190.194:11358, server: 57.128.190.194, port: 11358, type: ss, cipher: chacha20-ietf-poly1305, password: 7de24e1f7d5f69a9}
   - {name: 🇸🇪 SS-瑞典-NF解锁瑞典地区非自制剧-ChatGPT-TikTok-YouTube-13.48.143.91:5790, server: 13.48.143.91, port: 5790, type: ss, cipher: aes-256-gcm, password: 0pTM3CJb}
   - {name: 🇺🇸 SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-195.123.240.26:29591, server: 195.123.240.26, port: 29591, type: ss, cipher: aes-256-gcm, password: Frqd8v92}
   - {name: 🇳🇱 SS-巴勒斯坦-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-212.192.2.202:20008, server: 212.192.2.202, port: 20008, type: ss, cipher: aes-256-gcm, password: JtLTCxf6}
   - {name: 🇱🇹 VMESS-立陶宛-NF解锁自制剧-ChatGPT-TikTok-YouTube-xcf037.facai2024.com:443, server: xcf037.facai2024.com, port: 443, type: vmess, uuid: d9863037-0463-4615-e972-36ba9662d1e9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xcf037.facai2024.com, network: ws, ws-opts: {path: /d9863037, headers: {Host: xcf037.facai2024.com}}}
   - {name: 🇳🇱 SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-212.34.150.176:4199, server: 212.34.150.176, port: 4199, type: ss, cipher: chacha20-ietf-poly1305, password: gpW0ffUApVv0u5q1NwGHAX}
   - {name: 🇪🇸 SS-西班牙-NF解锁西班牙地区非自制剧-ChatGPT-TikTok-YouTube-92.38.171.215:31348, server: 92.38.171.215, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: 0RsrcFJ1vOsWEqg3P55hvaacKfuShT0cc1h0t8AD0NA8u1uR}
-  - {name: 🇺🇸 SSR-美国-ChatGPT-TikTok-YouTube-35.93.48.173:443, server: 35.93.48.173, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
-  - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.201.49.196:443, server: 54.201.49.196, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
   - {name: 🇭🇰 SS-美国-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067, server: 154.3.8.151, port: 30067, type: ss, cipher: aes-256-gcm, password: iUB0923RBA}
   - {name: 🇭🇰 SS-荷兰-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-85.209.158.11:8388, server: 85.209.158.11, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: MWYyN}
   - {name: 🇳🇱 SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-185.157.215.199:24782, server: 185.157.215.199, port: 24782, type: ss, cipher: chacha20-ietf-poly1305, password: fajet73Dd9OI0CkDa6rZQL}
@@ -38,3 +35,4 @@ proxies:
   - {name: 🇺🇸 SS-美国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-150.241.91.184:8724, server: 150.241.91.184, port: 8724, type: ss, cipher: chacha20-ietf-poly1305, password: hY4vxI8XY3YJghRe4Gp2g2}
   - {name: 🇨🇾 VMESS-塞浦路斯-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-xc147-2.meiziba5566.com:443, server: xc147-2.meiziba5566.com, port: 443, type: vmess, uuid: c26f81db-422e-48e5-8324-0970dde4553f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xc147-2.meiziba5566.com, network: ws, ws-opts: {path: /c26f81db, headers: {Host: xc147-2.meiziba5566.com}}}
   - {name: 🇺🇸 SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-52.27.107.177:443, server: 52.27.107.177, port: 443, type: ssr, cipher: aes-256-cfb, password: amazonskr05, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
+  - {name: 🇮🇪 SS-爱尔兰-NF解锁爱尔兰地区非自制剧-ChatGPT-TikTok-YouTube-193.57.138.81:27082, server: 193.57.138.81, port: 27082, type: ss, cipher: aes-128-gcm, password: YHRRtsm3X+x2mgl76yY9uidsOwnEe30/tyblQU/hGtU=}
