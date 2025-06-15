@@ -17,3 +17,4 @@ proxies:
   - {name: 🇺🇸 VMESS-未知>美国-NF解锁自制剧-ChatGPT-orvps2.horsenma.net:8443, server: orvps2.horsenma.net, port: 8443, type: vmess, uuid: 57e595e6-ef54-4e0d-b8df-e96db9612b99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: orvps2.horsenma.net, network: ws, ws-opts: {path: /horsen, headers: {Host: orvps2.horsenma.net}}}
   - {name: 🇳🇱 SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-38.180.158.38:5555, server: 38.180.158.38, port: 5555, type: ss, cipher: chacha20-ietf-poly1305, password: HU3ZebY2-OMZ9ErvsG_0zg}
   - {name: 🇩🇪 SSR-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-193.108.119.230:8080, server: 193.108.119.230, port: 8080, type: ssr, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, protocol: origin, obfs: plain, protocol-param: "", obfs-param: ""}
+  - {name: 🇮🇪 SS-爱尔兰-NF解锁爱尔兰地区非自制剧-ChatGPT-TikTok-3.255.250.127:23456, server: 3.255.250.127, port: 23456, type: ss, cipher: chacha20-ietf-poly1305, password: 8GWVhH7m9rSfTvYcGN7wgR}
