@@ -29,5 +29,5 @@ proxies:
   - {name: 🇸🇬 SS-塞舌尔>日本-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52104, server: 154.83.90.11, port: 52104, type: ss, cipher: chacha20-ietf-poly1305, password: 835ab5d2-df2e-4be5-8ef5-fefd932c2c46}
   - {name: 🇩🇪 SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-135.125.219.2:10942, server: 135.125.219.2, port: 10942, type: ss, cipher: chacha20-ietf-poly1305, password: 78f2cc60404aee30}
   - {name: 🇸🇬 SS-塞舌尔>日本-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:51104, server: 154.83.90.11, port: 51104, type: ss, cipher: chacha20-ietf-poly1305, password: 835ab5d2-df2e-4be5-8ef5-fefd932c2c46}
-  - {name: 🇸🇬 SS-塞舌尔-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52103, server: 154.83.90.11, port: 52103, type: ss, cipher: chacha20-ietf-poly1305, password: 835ab5d2-df2e-4be5-8ef5-fefd932c2c46}
+  - {name: 🇸🇬 SS-塞舌尔>新加坡-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52103, server: 154.83.90.11, port: 52103, type: ss, cipher: chacha20-ietf-poly1305, password: 835ab5d2-df2e-4be5-8ef5-fefd932c2c46}
   - {name: 🇭🇰 SS-塞舌尔>香港-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52101, server: 154.83.90.11, port: 52101, type: ss, cipher: chacha20-ietf-poly1305, password: 835ab5d2-df2e-4be5-8ef5-fefd932c2c46}
