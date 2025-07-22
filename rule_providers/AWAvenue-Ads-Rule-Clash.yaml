@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 857
+#Total lines: 862
 #Version: 1.6.7-release
-#Update time: 2025-07-14 02:48:08 UTC+8
-#Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
+#Update time: 2025-07-22 17:23:06 UTC+8
+#Update content: 清理前200行中的无效域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -22,7 +22,6 @@ payload:
   - 'ad-scope.com'
   - 'ad-scope.com.cn'
   - 'ad-sdk-config.youdao.com'
-  - 'ad-sdk.huxiu.com'
   - 'ad-splash-tracking.hktvmall.com'
   - 'ad-splash.hktvmall.com'
   - 'ad.12306.cn'
@@ -44,7 +43,6 @@ payload:
   - 'ad.winrar.com.cn'
   - 'ad.ximalaya.com'
   - 'ad.zijieapi.com'
-  - 'ad2.ettoday.net'
   - 'adapi.izuiyou.com'
   - 'adapi.yynetwk.com'
   - 'adashbc.ut.taobao.com'
@@ -60,7 +58,6 @@ payload:
   - 'adexp.liftoff.io'
   - 'adexpo.tencentmusic.com'
   - 'adfilter.imtt.qq.com'
-  - 'adfstat.yandex.ru'
   - 'adguanggao.eee114.com'
   - 'adjust.cn'
   - 'adjust.com'
@@ -79,14 +76,12 @@ payload:
   - 'ads-video-al.xhscdn.com'
   - 'ads-video-qc.xhscdn.com'
   - 'ads.95516.com'
-  - 'ads.flurry.com'
   - 'ads.google.cn'
   - 'ads.huan.tv'
   - 'ads.huantest.com'
   - 'ads.icloseli.cn'
   - 'ads.inmobi.com'
   - 'ads.linkedin.com'
-  - 'ads.music.126.net'
   - 'ads.pinterest.com'
   - 'ads.pubmatic.com'
   - 'ads.raidrive.com'
@@ -135,7 +130,6 @@ payload:
   - 'adtago.s3.amazonaws.com'
   - 'adtech.yahooinc.com'
   - 'adtrack.quark.cn'
-  - 'adv.fjtv.net'
   - 'adv.sec.intl.miui.com'
   - 'adv.sec.miui.com'
   - 'advertising-api-eu.amazon.com'
@@ -147,6 +141,7 @@ payload:
   - 'advice-ads.s3.amazonaws.com'
   - 'adview.cn'
   - 'adx-ad.smart-tv.cn'
+  - 'adx-bj-req.anythinktech.com'
   - 'adx-bj.anythinktech.com'
   - 'adx-cn.anythinktech.com'
   - 'adx-drcn.op.dbankcloud.cn'
@@ -486,7 +481,6 @@ payload:
   - 'log.kuwo.cn'
   - 'log.pinterest.com'
   - 'log.popin.cc'
-  - 'log.snssdk.com'
   - 'log.stat.kugou.com'
   - 'log.tagtic.cn'
   - 'log.tbs.qq.com'
@@ -511,6 +505,7 @@ payload:
   - 'masdkv6.3g.qq.com'
   - 'mazu.m.qq.com'
   - 'mbdlog.iqiyi.com'
+  - 'mcs.zijieapi.com'
   - 'metrics.data.hicloud.com'
   - 'metrics.icloud.com'
   - 'metrics.mzstatic.com'
@@ -607,6 +602,7 @@ payload:
   - 'policy.video.ptqy.gitv.tv'
   - 'pos.baidu.com'
   - 'prod-mediate-events.applovin.com'
+  - 'promotion-partner.kuaishou.com'
   - 'proxy.advp.apple.com'
   - 'public.gdtimg.com'
   - 'q.i.gdt.qq.com'
@@ -716,6 +712,7 @@ payload:
   - 'tdc.qq.com'
   - 'tdsdk.cpatrk.net'
   - 'tdsdk.xdrig.com'
+  - 'telecome.cn'
   - 'telemetry.sdk.inmobi.com'
   - 'tencent-dtv.m.cn.miaozhen.com'
   - 'test.ad.xiaomi.com'
@@ -729,13 +726,21 @@ payload:
   - 'tmfmazu.m.qq.com'
   - 'tmfsdk.m.qq.com'
   - 'tmfsdktcpv4.m.qq.com'
+  - 'tnc0-aliec2.zijieapi.com'
+  - 'tnc0-alisc1.zijieapi.com'
+  - 'tnc0-bjlgy.zijieapi.com'
   - 'tnc3-aliec1.toutiaoapi.com'
   - 'tnc3-aliec2.bytedance.com'
+  - 'tnc3-aliec2.snssdk.com'
   - 'tnc3-aliec2.toutiaoapi.com'
+  - 'tnc3-aliec2.zijieapi.com'
   - 'tnc3-alisc1.bytedance.com'
+  - 'tnc3-alisc1.snssdk.com'
+  - 'tnc3-alisc1.toutiaoapi.com'
   - 'tnc3-alisc1.zijieapi.com'
   - 'tnc3-alisc2.zijieapi.com'
   - 'tnc3-bjlgy.bytedance.com'
+  - 'tnc3-bjlgy.snssdk.com'
   - 'tnc3-bjlgy.toutiaoapi.com'
   - 'tnc3-bjlgy.zijieapi.com'
   - 'toblog.ctobsnssdk.com'
